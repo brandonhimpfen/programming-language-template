@@ -1,2 +1,15 @@
 # programming-language-template
-A template for teaching and resources for a programming language.
+
+[Introduction]
+
+## Table of Contents
+
+- [Getting Started](#getting-started)
+- [Learn](#learn)
+- [Resources](#resources)
+
+## Getting Started
+
+## Learn
+
+## Resources
